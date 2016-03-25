@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Екран контролю</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="textView11">Открытый люк(возле рекламного щита), район поворота 18 и 19 трамваев на проспетк Мира с Донецкого Шоссе</string>
+    <string name="textView1">Комунальне господарство</string>
+    <string name="textView3">Створено</string>
+    <string name="textView4">25 лютого 2016</string>
+    <string name="textView5">Зареєстровано</string>
+    <string name="textView6">26 лютого 2016</string>
+    <string name="textView7">Вирішити до</string>
+    <string name="textView8">29 лютого 2016</string>
+    <string name="textView9">Відповідальний</string>
+    <string name="textView10">Дніпропетровський МВК()</string>
+</resources>

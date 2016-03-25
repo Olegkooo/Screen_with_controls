@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Screen with controls</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView1">Utilities</string>
+    <string name="textView11">Opened hatch ( near the ad board), the area, where 18 and 19 trams turn from Mir Str. To Donetskiy highway</string>
+    <string name="textView3">Creared</string>
+    <string name="textView4">25 February 2016</string>
+    <string name="textView5">Registered</string>
+    <string name="textView6">26 February 2016</string>
+    <string name="textView7">Solve till</string>
+    <string name="textView8">29 February 2016</string>
+    <string name="textView9">Responsible</string>
+    <string name="textView10">Dnipropetrovskiy MVK()</string>
+</resources>
